@@ -17,9 +17,6 @@ follow.addEventListener("dblclick",function(){
     message.addEventListener("click",function(){
         open( "https://www.facebook.com/sushantttttttt","_blank");
     })
-    email.addEventListener("click", function() {
-        window.location.href = "mailto:sushantsubedi777@gmail.com";
-      });
 
 let uname = document.querySelector(".uname")  
 let inusername = document.querySelector(".useraddress")
